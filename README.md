@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **YOU DONT**
 
-- ⚡ Fun fact **I like hacking :0**
+- ⚡ Fun fact **I make unblocked games websites, thats why I have so many repos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
