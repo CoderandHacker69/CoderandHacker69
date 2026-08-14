@@ -1,20 +1,15 @@
-# Hi 👋, I'm CoderandHacker69
+Hey 👋, I'm Shay
+Web Developer • JavaScript • UI Design
 
-### An experienced Html developer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CoderandHacker69&label=Profile%20views&color=8b5cf6&style=flat" alt="Profile views" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CoderandHacker69&label=Profile views&color=0e75b6&style=flat" alt="CoderandHacker69" /> </p>
-
-- 🔭 I'm currently working on **Unblocked Games RN PRIVATE!!!**
-
-- 🌱 I'm currently learning **JavaScript**
-
-- 🤝 I'm looking for help with **JavaScript**
-
-- 💬 Ask me about **Htmls, Python, Web Design and UBG**
-
-- 📫 How to reach me **YOU DONT**
-
-- ⚡ Fun fact **I make unblocked games websites, thats why I have so many repos**
+🔭 Currently working on Chill Hub 🎮
+🌱 Learning JavaScript & modern web development
+💻 Building websites, game hubs, and random projects
+🎨 Interested in UI/UX, web design, and frontend development
+🛠️ I work with HTML, CSS, JavaScript & Python
+💬 Ask me about web development, UI design, or unblocked games
+⚡ Fun fact: I have way too many repos
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
